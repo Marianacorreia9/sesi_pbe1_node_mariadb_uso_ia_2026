@@ -10,7 +10,7 @@ O sistema permite o gerenciamento de usuários, autenticação por login, cadast
 
 O diagrama de classes representa a estrutura do sistema, suas classes, atributos, métodos e relacionamentos.
 
-![Diagrama de Classes](./docs/Diagrama de classe.png)
+![Diagrama de Classes](./docs/Diagrama%20de%20classe.drawio.png)
 
 ## Tecnologias utilizadas
 
